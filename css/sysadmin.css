@@ -252,7 +252,7 @@ section {
 
 .bio 
 {
-	color: white;
+	color: black;
 	font-weight: normal;
 	}
 
@@ -281,6 +281,8 @@ section {
 	z-index: 2;
 	margin-top: -60px;
 	border-radius: 50%;
+	height: 300px;
+	width: 300px;
 }
 
 .team .title {
@@ -307,8 +309,9 @@ section {
 	padding: 45px 30px;
 	text-align: center;
 	background: url('../img/popup.jpg');
-	color: white;
-	box-shadow: white 0px 0px 2px;
+	color: black;
+	font-size: 150%;
+	box-shadow: black 0px 0px 2px;
 	border-radius: 2px;
 }
 
@@ -317,7 +320,7 @@ section {
 	position: absolute;
 	top: 20px;
 	right: 30px;
-	color: #fff;
+	color: black;
 }
 
 .row.title {
